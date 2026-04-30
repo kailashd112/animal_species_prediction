@@ -2,7 +2,7 @@
 
 🚀 A fast and lightweight Machine Learning web app built using **Streamlit** that predicts animal species based on physical and biological features.
 
-LIVE LINK : 
+LIVE LINK : https://animalspeciesprediction-em5icb5wmcujmqfztmazkt.streamlit.app/
 
 ---
 
